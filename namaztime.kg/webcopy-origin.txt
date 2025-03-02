@@ -1,0 +1,148 @@
+Uri: http://namaztime.kg/
+File Name: C:\Downloaded Web Sites\namaztime.kg\index.htm
+Content Type: text/html
+
+Uri: http://namaztime.kg/img/dalil.png
+File Name: C:\Downloaded Web Sites\namaztime.kg\img\dalil.png
+Content Type: image/png
+
+Uri: http://namaztime.kg/img/favicon.png
+File Name: C:\Downloaded Web Sites\namaztime.kg\img\favicon.png
+Content Type: image/png
+
+Uri: http://namaztime.kg/img/qrCode.png
+File Name: C:\Downloaded Web Sites\namaztime.kg\img\qrCode.png
+Content Type: image/png
+
+Uri: http://namaztime.kg/img/switch.png
+File Name: C:\Downloaded Web Sites\namaztime.kg\img\switch.png
+Content Type: image/png
+
+Uri: http://namaztime.kg/script.js
+File Name: C:\Downloaded Web Sites\namaztime.kg\script.js
+Content Type: application/javascript
+
+Uri: http://namaztime.kg/style(1080х1920).css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style(1080х1920).css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style(360x665_RedmeA10).css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style(360x665_RedmeA10).css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style(360x701_Redmi10A).css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style(360x701_Redmi10A).css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style(360x701_Redmi10S).css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style(360x701_Redmi10S).css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style(375x628_iPhone13mini).css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style(375x628_iPhone13mini).css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style(383_403x711_731_Mi9).css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style(383_403x711_731_Mi9).css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style(407x766_RedmiNode13Pro+).css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style(407x766_RedmiNode13Pro ).css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style(407_417x799_809_Mi13Pro).css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style(407_417x799_809_Mi13Pro).css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style(414x617_iPhone8+).css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style(414x617_iPhone8 ).css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style-(414x718_iPhone11ProMax).css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style-(414x718_iPhone11ProMax).css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style-360x520(SamsungJ5).css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style-360x520(SamsungJ5).css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style-393x659_iPhone15Pro.css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style-393x659_iPhone15Pro.css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style-393x763(RedmiNote12Pro5G).css?v=1.1
+File Name: C:\Downloaded Web Sites\namaztime.kg\style-393x763(RedmiNote12Pro5G).css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style-393x767_POCOM5s.css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style-393x767_POCOM5s.css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style-430x737_iPhone14Pro.css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style-430x737_iPhone14Pro.css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style-430x745_iPhone15ProMax.css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style-430x745_iPhone15ProMax.css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style-Redmi10C.css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style-Redmi10C.css
+Content Type: text/css
+
+Uri: http://namaztime.kg/style.css?v=1.0
+File Name: C:\Downloaded Web Sites\namaztime.kg\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Abel&family=Bebas+Neue&family=Micro+5+Charted&family=Rajdhani:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\namaztime.kg\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100&family=Oswald:wght@200;300&display=swap
+File Name: C:\Downloaded Web Sites\namaztime.kg\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/abel/v18/MwQ5bhbm2POE6Vg.ttf
+File Name: C:\Downloaded Web Sites\namaztime.kg\s\abel\v18\MwQ5bhbm2POE6Vg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bebasneue/v14/JTUSjIg69CK48gW7PXooxW4.ttf
+File Name: C:\Downloaded Web Sites\namaztime.kg\s\bebasneue\v14\JTUSjIg69CK48gW7PXooxW4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bigshouldersdisplay/v21/fC1MPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx12wPgf9g-_3F0YdY86JF4.ttf
+File Name: C:\Downloaded Web Sites\namaztime.kg\s\bigshouldersdisplay\v21\fC1MPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx12wPgf9g-_3F0YdY86JF4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/micro5charted/v2/hESp6XxmPDtTtADZhn7oD_yrmxEGRQ.ttf
+File Name: C:\Downloaded Web Sites\namaztime.kg\s\micro5charted\v2\hESp6XxmPDtTtADZhn7oD_yrmxEGRQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvgUE.ttf
+File Name: C:\Downloaded Web Sites\namaztime.kg\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs13FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+File Name: C:\Downloaded Web Sites\namaztime.kg\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v16/LDI2apCSOBg7S-QT7pa8FsOs.ttf
+File Name: C:\Downloaded Web Sites\namaztime.kg\s\rajdhani\v16\LDI2apCSOBg7S-QT7pa8FsOs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v16/LDI2apCSOBg7S-QT7pasEcOs.ttf
+File Name: C:\Downloaded Web Sites\namaztime.kg\s\rajdhani\v16\LDI2apCSOBg7S-QT7pasEcOs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v16/LDI2apCSOBg7S-QT7pb0EMOs.ttf
+File Name: C:\Downloaded Web Sites\namaztime.kg\s\rajdhani\v16\LDI2apCSOBg7S-QT7pb0EMOs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v16/LDI2apCSOBg7S-QT7pbYF8Os.ttf
+File Name: C:\Downloaded Web Sites\namaztime.kg\s\rajdhani\v16\LDI2apCSOBg7S-QT7pbYF8Os.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v16/LDIxapCSOBg7S-QT7q4A.ttf
+File Name: C:\Downloaded Web Sites\namaztime.kg\s\rajdhani\v16\LDIxapCSOBg7S-QT7q4A.ttf
+Content Type: font/ttf
+

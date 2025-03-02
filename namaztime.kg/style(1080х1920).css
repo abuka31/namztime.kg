@@ -1,0 +1,166 @@
+@media screen and (min-width:1040px) and (max-width: 1140px) and (min-height: 1768px) and (max-height: 2500px) {
+
+  .box {
+    display: grid;
+    grid-template-rows: repeat(16, 10vh);
+    grid-template-columns: 1fr;
+    width: auto;
+    margin: 0 auto;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 500;
+  }
+  
+  .header1 {
+    font-size: 90px;
+    padding: 20px;
+    border-bottom: none;
+  }
+
+  .switchButton img, 
+  .dalilButton img {
+    display: none;
+  }
+
+  #myModal{
+    display: none;
+  }
+
+  .modal{
+    display: none;
+  }
+
+
+
+
+
+
+  .header2 {
+    font-size: 100px;
+    transform: scaleY(1.5);
+    font-weight: 900;
+    border-bottom: none;
+  }
+
+  .header3 {
+    height: auto;
+  }
+
+  .namazName, .startName, .endName {
+    font-size: 80px;
+  }
+
+  .tahajjud,
+  .sunrise,
+  .ishrok,
+  .duha,
+  .zenith,
+  .sunset {
+    display: none;
+  }
+
+  .header1,
+  .header2,
+  .header3,
+  .fajr,
+  .zuhr,
+  .asr,
+  .magrib,
+  .isha,
+  .footer {
+    border-bottom: 10px solid rgb(191, 194, 191);
+  }
+
+
+
+
+  .tahajjudName,
+  .fajrName,
+  .sunriseName,
+  .ishrokName,
+  .duhaName,
+  .zenithName,
+  .zuhrName,
+  .asrName,
+  .sunsetName,
+  .magribName,
+  .ishaName 
+  {
+    font-size: 100px;
+  }
+
+  .tahajjudStart,
+  .fajrStart,
+  .sunriseStart,
+  .ishrokStart,
+  .duhaStart,
+  .zenithStart,
+  .zuhrStart,
+  .asrStart,
+  .sunsetStart,
+  .magribStart,
+  .ishaStart 
+  {
+    font-size: 100px;
+  }
+
+  .tahajjudEnd,
+  .fajrEnd,
+  .sunriseEnd,
+  .ishrokEnd,
+  .duhaEnd,
+  .zenithEnd,
+  .zuhrEnd,
+  .asrEnd,
+  .sunsetEnd,
+  .magribEnd,
+  .ishaEnd 
+  {
+    font-size: 100px;
+  }
+
+  .tahajjudStartLeft,
+  .fajrStartLeft,
+  .sunriseStartLeft,
+  .ishrokStartLeft,
+  .duhaStartLeft,
+  .zenithStartLeft,
+  .zuhrStartLeft,
+  .asrStartLeft,
+  .sunsetStartLeft,
+  .magribStartLeft,
+  .ishaStartLeft 
+  {
+    font-size: 30px;
+    padding-bottom: 20px;
+  }
+
+  .tahajjudEndLeft,
+  .fajrEndLeft,
+  .sunriseEndLeft,
+  .ishrokEndLeft,
+  .duhaEndLeft,
+  .zenithEndLeft,
+  .zuhrEndLeft,
+  .asrEndLeft,
+  .sunsetEndLeft,
+  .magribEndLeft,
+  .ishaEndLeft 
+  {
+    font-size: 30px;
+    padding-bottom: 20px;
+  }
+
+  .footer {
+    font-size: 80px;
+    height: 350px;
+    border-bottom: none;
+  }
+
+  .footer img {
+    width: 350px;
+    height: 350px;
+  }
+
+
+
+}
