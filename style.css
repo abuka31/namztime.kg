@@ -1,0 +1,376 @@
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #ffffff;
+  }
+
+  html, body {
+    overflow: hidden;
+    height: 100vh;
+  }
+
+  .box {
+    display: grid;
+    grid-template-rows: repeat(16, 6.3vh);
+    grid-template-columns: 1fr;
+    width: 777px;
+    margin: 0 auto;
+  }
+  
+  .header1,
+  .header2,
+  .header3,
+  .tahajjud,
+  .fajr,
+  .sunrise,
+  .ishrok,
+  .duha,
+  .zenith,
+  .zuhr,
+  .asr,
+  .sunset,
+  .magrib,
+  .isha,
+  .footer {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    /* border: 1px solid #333; */
+    border-bottom: 4px solid rgb(191, 194, 191);
+  }
+    
+  .header1 {
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+    color: rgb(11, 20, 146);
+    transform: scaleY(1.2);
+    border-bottom: 4px solid rgb(191, 194, 191);
+    border-bottom: none;
+  }
+
+  .switchButton img, 
+  .dalilButton img {
+    max-width: 80%;
+    max-height: 80%;
+  }
+
+  /* -----------------Модальное окно----------------- */
+  @keyframes blink {
+    0% { opacity: 1; }
+    10% { opacity: 0; }
+    20% { opacity: 1; }
+    30% { opacity: 0; }
+    40% { opacity: 1; }
+    50% { opacity: 0; }
+    60% { opacity: 1; }
+    70% { opacity: 0; }
+    80% { opacity: 1; }
+    90% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+.blinking {
+    animation: blink 5s infinite;
+}
+
+
+  .dalilButton {
+    cursor: pointer;
+    transition: transform 0.1s ease;
+    animation: blink 5s infinite;
+}
+
+.no-blink {
+    animation: none;
+}
+
+@keyframes blink {
+    0% { opacity: 1; }
+    10% { opacity: 0; }
+    20% { opacity: 1; }
+    30% { opacity: 0; }
+    40% { opacity: 1; }
+    50% { opacity: 0; }
+    60% { opacity: 1; }
+    70% { opacity: 0; }
+    80% { opacity: 1; }
+    90% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+
+.dalilButton:active {
+    transform: scale(0.90);
+    transition: transform 0.1s ease;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.modal-content {
+    background-color: #ffffff;
+    margin: 5% auto;
+    border: none;
+    width: 60%;
+    font-size: 18px;
+    position: relative;
+}
+
+.close {
+  color: #ff0000;
+  position: absolute;
+  right: 1px;
+  top: 4px;
+  font-size: 42px;
+  font-weight: bold;
+  background-color: transparent;
+  transform: scaleY(1.5);
+}
+
+
+.close:hover, .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.dalilText {
+    overflow-y: auto; 
+    overflow-x: hidden; 
+    word-wrap: break-word;
+}
+
+.dalilText .p1 {
+    font-family: 'Alumni Sans', sans-serif;
+    font-family: 'Big Shoulders Display', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    background-color: #aca9a9;
+    padding: 5px;
+}
+
+.dalilText .p2 {
+    font-family: 'Alumni Sans', sans-serif;
+    font-family: 'Big Shoulders Display', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.dalilBlock{
+  background-color: #aca9a9;
+}
+
+.dalilBlockWhite{
+  background-color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
+
+  .header2 {
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    font-size: 35px;
+    color: red;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-bottom: 4px solid rgb(191, 194, 191);
+    border-bottom: none;
+  }
+
+  .header3 {
+    display: flex;
+    justify-content:space-between;
+    align-items: end;
+    font-size: 35px;
+    color: rgb(80, 80, 80);
+    height: 50px;
+    border-bottom: 4px solid rgb(191, 194, 191);
+  }
+
+  .footer {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    font-size: 25px;
+    color: rgb(80, 80, 80);
+    padding-right: 20px;
+    padding-left: 20px;
+    height: 80px;
+    border-bottom: 4px solid rgb(191, 194, 191);
+    border-bottom: none;
+  }
+
+  .footer img {
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    height: 70px;
+  }
+
+  .namazName{
+    color: rgb(11, 20, 146);
+    font-size: 35px;
+    width: 370px;
+    padding-left: 20px;
+  }
+
+  .startName{
+    color: rgb(11, 20, 146); 
+    font-size: 35px; 
+    padding-right: 20px;
+  }
+
+  .startNameLeft{
+    color: #eae6e6;
+    font-size: 30px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+  }
+
+  .endName{
+    color: rgb(11, 20, 146);
+    font-size: 35px;
+    padding-right: 20px;
+  }
+
+  .endNameLeft{
+    color: #eae6e6;
+    font-size: 30px;
+    padding-bottom: 10px;
+  }
+
+  .tahajjudName,
+  .fajrName,
+  .sunriseName,
+  .ishrokName,
+  .duhaName,
+  .zenithName,
+  .zuhrName,
+  .asrName,
+  .sunsetName,
+  .magribName,
+  .ishaName 
+  {
+    font-size: 35px;
+    color: rgb(80, 80, 80);
+    width: 400px;
+    display: flex;
+    justify-content:start;
+    align-items:end;
+    padding-left: 20px;
+  }
+
+  .tahajjudStart,
+  .fajrStart,
+  .sunriseStart,
+  .ishrokStart,
+  .duhaStart,
+  .zenithStart,
+  .zuhrStart,
+  .asrStart,
+  .sunsetStart,
+  .magribStart,
+  .ishaStart 
+  {
+    font-size: 35px;
+    color: rgb(80, 80, 80);
+    display: flex;
+    justify-content:start;
+    align-items:end;
+  }
+
+  .tahajjudStartLeft,
+  .fajrStartLeft,
+  .sunriseStartLeft,
+  .ishrokStartLeft,
+  .duhaStartLeft,
+  .zenithStartLeft,
+  .zuhrStartLeft,
+  .asrStartLeft,
+  .sunsetStartLeft,
+  .magribStartLeft,
+  .ishaStartLeft 
+  {
+    font-size: 15px;
+    color: rgb(255, 0, 0);
+    display: flex;
+    justify-content:start;
+    align-items:end;
+    padding-bottom: 6px;
+    padding-left: 5px;
+  }
+
+  .tahajjudEnd,
+  .fajrEnd,
+  .sunriseEnd,
+  .ishrokEnd,
+  .duhaEnd,
+  .zenithEnd,
+  .zuhrEnd,
+  .asrEnd,
+  .sunsetEnd,
+  .magribEnd,
+  .ishaEnd 
+  {
+    font-size: 35px;
+    color: rgb(80, 80, 80);
+    display: flex;
+    justify-content:start;
+    align-items:end;
+  }
+
+  .tahajjudEndLeft,
+  .fajrEndLeft,
+  .sunriseEndLeft,
+  .ishrokEndLeft,
+  .duhaEndLeft,
+  .zenithEndLeft,
+  .zuhrEndLeft,
+  .asrEndLeft,
+  .sunsetEndLeft,
+  .magribEndLeft,
+  .ishaEndLeft 
+  {
+    font-size: 15px;
+    color: rgb(255, 0, 0);
+    display: flex;
+    justify-content:start;
+    align-items:end;
+    padding-bottom: 6px;
+    padding-left: 5px;
+  }
+
+
+
+  .timer {
+    color: red;
+}
+
+.highlight {
+  background-color: lightgreen;
+}
+
+.highlight .timer {
+    color: red; /* Таймер останется красным, даже если родительский элемент перекрашивается */
+}
+
+.highlight * {
+  background-color: lightgreen;
+}
+
+.highlight .timer {
+    color: red; /* Сохраняем красный цвет таймера */
+}
